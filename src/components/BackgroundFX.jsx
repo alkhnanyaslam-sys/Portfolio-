@@ -81,4 +81,4 @@ export default function BackgroundFX() {
   }, []);
 
   return <canvas ref={canvasRef} className="bg-fx" aria-hidden="true" />;
-        }
+}
