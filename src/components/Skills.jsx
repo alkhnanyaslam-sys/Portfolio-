@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import {
   SiHtml5,
-  SiCss3,
+  SiCss3Styled,
   SiJavascript,
   SiReact,
   SiPython,
@@ -17,7 +17,7 @@ import { skillGroups } from "../data/skills.js";
 
 const ICONS = {
   HTML: SiHtml5,
-  CSS: SiCss3,
+  CSS: SiCss3Styled,
   JavaScript: SiJavascript,
   React: SiReact,
   "Responsive Design": HiOutlineDeviceMobile,
